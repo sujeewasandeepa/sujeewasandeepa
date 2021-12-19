@@ -3,9 +3,12 @@
 - I am a software engineering undergraduate from Sri Lanka 🇱🇰
 - I do love Free and Open Source Software 🐧
 - I am following The Odin Project whenever I have time.
+- I am currently learning OOP, C++, Java and JS.
+- Reach me : sujeewasandeepa@protonmail.ch
+  or sandeepasujeewa@gmail.com 📧
 - Pronouns: he/him 😄
 
-## Tools I work with
+### Tools I work with
 <p>
   <img src="https://user-images.githubusercontent.com/69723438/146676150-33fca9b7-0ca9-4839-a4ef-ac11f41b02b4.png" width="40" height="40" target="_blank"/>
   <img src="https://user-images.githubusercontent.com/69723438/146676151-80f11727-2262-45dd-a852-23b9beaa12d4.jpg" width="40" height="40" target="_blank"/>
