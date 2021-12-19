@@ -7,10 +7,10 @@
 
 ## Tools I work with
 <p>
-  <img src="https://user-images.githubusercontent.com/69723438/146676150-33fca9b7-0ca9-4839-a4ef-ac11f41b02b4.png" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/69723438/146676151-80f11727-2262-45dd-a852-23b9beaa12d4.jpg" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/69723438/146676153-8bc74fc5-8213-4742-bf7f-52dd6ec46402.jpg" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/69723438/146676154-80eaab8b-8640-48ae-9a37-04c18e9992f5.png" width="40" height="40" />
+  <img src="https://user-images.githubusercontent.com/69723438/146676150-33fca9b7-0ca9-4839-a4ef-ac11f41b02b4.png" width="40" height="40" target="_blank"/>
+  <img src="https://user-images.githubusercontent.com/69723438/146676151-80f11727-2262-45dd-a852-23b9beaa12d4.jpg" width="40" height="40" target="_blank"/>
+  <img src="https://user-images.githubusercontent.com/69723438/146676153-8bc74fc5-8213-4742-bf7f-52dd6ec46402.jpg" width="40" height="40" target="_blank"/>
+  <img src="https://user-images.githubusercontent.com/69723438/146676154-80eaab8b-8640-48ae-9a37-04c18e9992f5.png" width="40" height="40" target="_blank"/>
 </p>
 
 
