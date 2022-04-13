@@ -3,7 +3,7 @@
 - I am a software engineering undergraduate from Sri Lanka 🇱🇰
 - I do love Free and Open Source Software 🐧
 - I am following The Odin Project whenever I have time.
-- I am currently learning OOP, JS, TS, Solidity and VueJS
+- I am currently learning OOP, JS, TS, Solidity, Vue JS and react.
 - Reach me : sujeewasandeepa@protonmail.ch
   or sandeepasujeewa@gmail.com 📧
 - Pronouns: he/him 😄
