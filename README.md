@@ -6,7 +6,6 @@
 - I am currently learning OOP, JS, TS, Solidity, Vue JS and react.
 - Reach me : sujeewasandeepa@protonmail.ch
   or sandeepasujeewa@gmail.com 📧
-- Pronouns: he/him 😄
 
 ### Tools I work with
 <p>
