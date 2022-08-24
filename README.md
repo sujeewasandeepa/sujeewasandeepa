@@ -20,6 +20,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sujeewasandeepa&theme=react&hide_border=true)](https://git.io/streak-stats)
 
+![Sujeewa's github stats](https://github-readme-stats.vercel.app/api?username=sujeewasandeepa&show_icons=true)
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeewasandeepa&layout=compact)
+
 <!--
 **sujeewasandeepa/sujeewasandeepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
