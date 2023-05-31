@@ -1,5 +1,7 @@
 ### Howdy! 👋
 
+__I am open to work, and ideally looking for an entry level job related to NodeJS, ReactJS, JavaScript or Typescript__
+
 - I am a software engineering undergraduate from Sri Lanka 🇱🇰
 - I do love Free and Open Source Software 🐧
 - I am following The Odin Project whenever I have time.
