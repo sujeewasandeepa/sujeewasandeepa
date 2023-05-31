@@ -6,8 +6,8 @@ __I am open to work, and ideally looking for an entry level job related to NodeJ
 - I do love Free and Open Source Software 🐧
 - I am following The Odin Project whenever I have time.
 - I am currently learning full stack development & data structures and algoritms.
-- Reach me : sujeewasandeepa@protonmail.ch
-  or sandeepasujeewa@gmail.com 📧
+- Reach me : sandeepasujeewa@gmail.com (primary)
+  or sujeewasandeepa@protonmail.ch 📧
 
 ### Tools I work with
 <p>
