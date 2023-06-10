@@ -16,7 +16,18 @@ __I am open to work, and ideally looking for an entry level job related to NodeJ
   <img src="https://user-images.githubusercontent.com/69723438/146676153-8bc74fc5-8213-4742-bf7f-52dd6ec46402.jpg" width="40" height="40" target="_blank"/>
   <img src="https://user-images.githubusercontent.com/69723438/146676154-80eaab8b-8640-48ae-9a37-04c18e9992f5.png" width="40" height="40" target="_blank"/>
   <img src="https://user-images.githubusercontent.com/69723438/146676525-a75394e5-3c5e-497c-a43f-2411584b402c.jpg" width="80" height="40" target="_blank"/>
-
+s.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node js"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router-logo"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres-logo">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman-logo"/>
 
 </p>
 
