@@ -2,10 +2,9 @@
 
 - I am a software engineering undergraduate from Sri Lanka 🇱🇰
 - I do love Free and Open Source Software 🐧
-- I am following The Odin Project whenever I have time.
+- I started solving advent of code when I have free time
 - I am currently learning full stack development & data structures and algoritms.
 - Reach me : sandeepasujeewa@gmail.com (primary)
-  or sujeewasandeepa@protonmail.ch 📧
 
 ### Tools I work with and currently learning
 <p>
