@@ -1,9 +1,9 @@
 ### Howdy! 👋
 
-- I am a software engineering undergraduate from Sri Lanka 🇱🇰
+- I am a junior software engineer from Sri Lanka 🇱🇰
 - I do love Free and Open Source Software 🐧
-- I started solving advent of code when I have free time
-- I am currently learning full stack development & data structures and algoritms.
+- I primarily work with Typescript
+- Stack: React, Nest, MySQL (current)
 - Reach me : sandeepasujeewa@gmail.com (primary)
 
 ### Tools I work with and currently learning
