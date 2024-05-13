@@ -3,7 +3,7 @@
 - I am a junior software engineer from Sri Lanka 🇱🇰
 - I do love Free and Open Source Software 🐧
 - I primarily work with Typescript
-- Stack: React, Nest, MySQL (current)
+- Stack: React, Nest, MySQL & MongoDB
 - Reach me : sandeepasujeewa@gmail.com (primary)
 
 ### Tools I work with and currently learning
