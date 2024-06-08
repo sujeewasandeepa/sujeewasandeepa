@@ -1,9 +1,10 @@
 ### Howdy! 👋
 
-- I am a junior software engineer from Sri Lanka 🇱🇰
+- I am a software engineer from Sri Lanka 🇱🇰
 - I do love Free and Open Source Software 🐧
 - I primarily work with Typescript
 - Stack: React, Nest, MySQL & MongoDB
+- When I have free time I'm learning rust
 - Reach me : sandeepasujeewa@gmail.com (primary)
 
 ### Tools I work with and currently learning
